@@ -19,8 +19,8 @@ P for pressure, n for moles, R for Universal Gas Constant, V for volume and T fo
   Python
 
 ## Modules used/needed
-  pygame
-  random
+  pygame,
+  random,
   math
 
 ## Demonstration
