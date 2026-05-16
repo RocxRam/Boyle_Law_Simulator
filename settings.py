@@ -1,0 +1,16 @@
+R=8.314
+
+width=500
+height=500
+
+FPS=60
+
+CHAMBER_X = 200
+CHAMBER_Y = 125
+
+CHAMBER_WIDTH = 100
+CHAMBER_HEIGHT = 200
+
+PISTON_HEIGHT = 10
+
+molecules_per_mole=10
