@@ -2,15 +2,18 @@
 An interactive physics simulation built using Python and pygame to visualize Boyle's law and basic kinetic theory behavior. This project demonstrates the inverse relationship between pressure and volume in a confined gas chamber using a movable piston and animated gas molecules.
 
 ### PV=constant
+### P=(n*R*T)/V 
+
+P for pressure, n for moles, R for Universal Gas Constant, V for volume and T for temperature.
 
 ## Features
-  Interactive volume control using custom-built sliders
-  Dynamic piston movement based on gas volume
-  Real-time pressure calculation using the ideal gas equation
-  Animated gas molecules with wall collisions
-  Adjustable amount of gas particles (moles)
-  Custom UI built entirely in pygame without external GUI libraries
-  Smooth simulation loop and visual thermodynamics representation
+  Interactive volume control using custom-built sliders,
+  Dynamic piston movement based on gas volume,
+  Real-time pressure calculation using the ideal gas equation,
+  Animated gas molecules with wall collisions,
+  Adjustable amount of gas particles (moles),
+  Custom UI built entirely in pygame without external GUI libraries,
+  Smooth simulation loop and visual thermodynamics representation.
 
 ## Language Used
   Python
@@ -42,9 +45,9 @@ An interactive physics simulation built using Python and pygame to visualize Boy
   Temperature, Volume, Moles
 
 ## Concepts Demonstrated
-  Boyle’s Law
-  Ideal Gas Equation
-  Particle Motion
-  Collision Handling
-  Simulation and Visualization
-  Interactive UI Programming
+  Boyle’s Law,
+  Ideal Gas Equation,
+  Particle Motion,
+  Collision Handling,
+  Simulation and Visualization,
+  Interactive UI Programming.
