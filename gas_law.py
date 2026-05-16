@@ -14,7 +14,7 @@ def calculate_temp(P,V,n):
 def calculate_moles(P,V,T):
     return P*V/(R*T)
 
-print(calculate_pressure(1,1,1))
+
 
 
 
